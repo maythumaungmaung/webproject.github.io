@@ -165,7 +165,7 @@ a:hover, a:focus, a:active {
   position: relative;
   float: left;
   width: 100%;
-  min-height:368px;
+  max-height:368px;
 
   }
 	
